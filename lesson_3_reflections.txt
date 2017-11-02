@@ -1,1 +1,10 @@
 reflections for lesson 3
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+-> Forks are github thing, bascially copying someone else's repo into your github
+used when improving someone else work/editing
+->clones are copying a repo in other contexts
+pulling down one's work to work it on some other systems
+->branches are some other work, like a commit branch
+changes to code
