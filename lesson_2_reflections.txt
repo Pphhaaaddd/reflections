@@ -1,0 +1,5 @@
+Initialize using git init and check up using git git status
+
+do this before start coding probably and must make it a habit of doing it everytime?
+
+get started with the work with moving in small steps. 
