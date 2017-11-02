@@ -2,4 +2,12 @@ Initialize using git init and check up using git git status
 
 do this before start coding probably and must make it a habit of doing it everytime?
 
-get started with the work with moving in small steps. 
+staging area : get started with the work with moving in small steps.
+
+one logical change per commit suits well
+
+when to branch? Experimental changes, new random ideas etc.
+
+Diagrams? visualize the reachability, easy context
+
+Merging? Automerge requires special care, manual can be tedious but safe
