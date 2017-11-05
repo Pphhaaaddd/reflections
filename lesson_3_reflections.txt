@@ -18,3 +18,10 @@ How would you collaborate without using Git or GitHub?
 What would be easier, and what would be harder?
 ->email/phycally talk/coordinate.
 ->git/github would be easier most of the time, also less time
+
+When would you want to make changes in a separate branch rather
+than directly in master? What benefits does each approach have?
+-> working on something different/experimental. Changing master might
+add complications
+->Less complications if working on master alone
+branching=more collaboration possible and doesn't punish weird experiments
